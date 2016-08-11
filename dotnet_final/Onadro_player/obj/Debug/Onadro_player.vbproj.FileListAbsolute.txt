@@ -1,0 +1,66 @@
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\bin\Debug\Onadro_player.exe.config
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\bin\Debug\Onadro_player.exe
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\bin\Debug\Onadro_player.pdb
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\bin\Debug\Onadro_player.xml
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.Form1.resources
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.Resources.resources
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.vbproj.GenerateResource.Cache
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.exe
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.xml
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.pdb
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\bin\Debug\Interop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\bin\Debug\AxInterop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Interop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\AxInterop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.vbproj.ResolveComReference.cache
+D:\Test Projects\vb.net\onadro_digital_signage\Player\Onadro_player\Onadro_player\obj\Debug\Onadro_player.splash.resources
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\bin\Debug\Onadro_player.exe.config
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Interop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\AxInterop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.vbproj.ResolveComReference.cache
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.exe
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.xml
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.pdb
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\bin\Debug\Onadro_player.exe
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\bin\Debug\Onadro_player.pdb
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\bin\Debug\Onadro_player.xml
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\bin\Debug\Interop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\bin\Debug\AxInterop.WMPLib.dll
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.Form1.resources
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.Resources.resources
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.splash.resources
+D:\Test Projects\vb.net\onadro_digital_signage\Player - Copy\Onadro_player - Copy\Onadro_player\obj\Debug\Onadro_player.vbproj.GenerateResource.Cache
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.exe.config
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.exe
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.pdb
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.xml
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Interop.WMPLib.dll
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\AxInterop.WMPLib.dll
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Interop.WMPLib.dll
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\AxInterop.WMPLib.dll
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.vbproj.ResolveComReference.cache
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.Form1.resources
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.Resources.resources
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.splash.resources
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.vbproj.GenerateResource.Cache
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.exe
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.xml
+D:\projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.pdb
+D:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.vbprojResolveAssemblyReference.cache
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.exe.config
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Interop.WMPLib.dll
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\AxInterop.WMPLib.dll
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.vbproj.ResolveComReference.cache
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.exe
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.xml
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.pdb
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.exe
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.pdb
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Onadro_player.xml
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.vbprojResolveAssemblyReference.cache
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.Form1.resources
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.Resources.resources
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.splash.resources
+F:\Projects\Onadro\Player\dotnet_final\Onadro_player\obj\Debug\Onadro_player.vbproj.GenerateResource.Cache

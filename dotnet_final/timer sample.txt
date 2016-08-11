@@ -1,0 +1,7 @@
+Dim now As DateTime = DateTime.Now
+Dim sevenThirty As New DateTime(now.Year, now.Month, now.Day, 19, 30, 0)
+Dim nine As New DateTime(now.Year, now.Month, now.Day, 21, 0, 0)
+
+If sevenThirty <= now AndAlso now <= nine Then
+		' Do something
+End If
